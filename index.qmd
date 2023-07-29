@@ -16,4 +16,8 @@ about:
       href: mailto:elzalabany@demogr.mpg.de
 ---
 
-Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as a data scientist & project coordinator in MPIDR, Germany & previously worked on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher. My research interests focus mainly on re/emerging infectious diseases and global health, using quantitative & qualitative data methodologies. I hold an MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018. I am also enrolled in MSc Applied Statistics in Health Sciences program (online- part time) with Strathclyde university. I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications.
+Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as a data scientist & project coordinator in MPIDR, Germany & previously worked on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher. 
+
+My research interests focus mainly on re/emerging infectious diseases and global health, using quantitative & qualitative data methodologies. 
+
+I hold an MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018. I am also enrolled in MSc Applied Statistics in Health Sciences program (online- part time) with Strathclyde university. I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications.
