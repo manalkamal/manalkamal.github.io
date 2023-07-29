@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: https://m-elzalabany.github.io/
+ # title: "Manal K. Elzalabany"
+  navbar:
+    right:
+      - href: index.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: publications.qmd
+        text: publications
+      - href: CV/ManalCV.pdf
+        text: cv
+      - icon: github
+        href: https://github.com/manalkamal
+      - icon: google
+        href: https://scholar.google.com/citations?user=ojo0_24AAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/manalkamal/
+      - icon: envelope
+        href: mailto:elzalabany@demogr.mpg.de
+        
+  page-footer: 
+    left: 
+      - "© 2023, Manal K. Elzalabany"
+
+format:
+  html:
+    theme: 
+      light: flatly
+     # dark: slate
+    css: styles.css
+    toc: true
+
+editor: visual
+

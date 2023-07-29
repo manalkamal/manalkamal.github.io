@@ -1,0 +1,39 @@
+---
+title: ""
+website: 
+  site-url: https://orcid.org/0000-0002-2686-8364 
+---
+
+## 2023
+
+·      **Elzalabany M. K.**, Kniffka M. S., Donzowa J., Schöley J., Acosta E., Riffe T. The COVerAGE-DB vaccination addon: A global database of age-harmonized COVID-19 vaccination time series. Population Association of America. 2023. <https://events.rdmobile.com/Lists/Details/1725962>
+
+·      Nikoloski Z, Bain R, **Elzalabany M. K.**, Hanna P, Aynsley TR, Samhouri D, Menchini L, Kapil N, Gillespie A. Modelling COVID-19 vaccination status and adherence to public health and social measures, Eastern Mediterranean Region and Algeria. Bull World Health Organ. 2023 Feb 1;101(2):111--20. <https://doi.org/10.2471%2FBLT.22.288655>
+
+## 2022
+
+·      Elmahal, O., Abdullah, A., **Elzalabany, M. K.**, Samhouri, D., & Brennan, R. (2022). Public health emergency operation centers-PHEOCs: status, gaps, and areas for improvements in the Eastern Mediterranean Region ([BMJ Global Health 20227:e008573](https://gh.bmj.com/content/7/Suppl_4/e008573)).  
+
+·      Samhouri, D., Barry, J., Abdullah, A., **Elzalabany, M. K.**, & Brennan, R. (2022). Development of the WHO Eastern Mediterranean Region's travel measures platform during the COVID-19 pandemic: a novel regional approach and interface in implementing the International Health Regulations (2005) and exchanging information in real time. *WHO Weekly epidemiological record*, 5(97), 25-32. Online: <https://apps.who.int/iris/handle/10665/351505>
+
+·      Hasan Q, Elfakki E, Fahmy K, et al. (2022). Inequities in the deployment of COVID-19 vaccine in the WHO Eastern Mediterranean Region, 2020--2021 BMJ Global Health7:e008139. [Link](https://gh.bmj.com/content/7/Suppl_4/e008139) (***acknowledgement***)
+
+## 2021
+
+·      Abouzeid, M., **Elzalabany, M.K.,** Nuwayhid, I. et al. Conflict-related health research in Syria, 2011--2019: a scoping review for *The Lancet* - AUB Commission on Syria. Confl Health 15, 92 (2021). <https://doi.org/10.1186/s13031-021-00384-3>
+
+## 2020
+
+·     Krista Wollny, Carol Liu, Ghinwa El Hayek, Sameer Gopalani, Hanh Dung Dao, Katharine Fagan-Garcia, Luca Martial, **Manal Elzalabany**, Helen Piontkivska, Arianna Amit, Jovia Nierenberg, Louisa Smith, Anhvinh Doanvo, Angel Desai, Vladimir Teif, Maimuna Majumder. Time-associated clinical and epidemiological parameters characterising COVID-19: a systematic review and meta-analysis. PROSPERO 2020 CRD42020177045 Available from: <https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020177045>
+
+·      Abdul-Khalek, R., Kayyal, W., Akkawi, A. R., Almalla, M., Arif, K., Karroum, L. B., . . ., **Elzalabany, M. K**.,..  Jawad, M. (2020). Health-related articles on Syria before and after the start of armed conflict: a scoping review for *The Lancet*-American University of Beirut Commission on Syria. *Confl Health* **14,** 73 (2020). <https://doi.org/10.1186/s13031-020-00316-7>.
+
+## 2019
+
+·      Lewison, G., Abouzeid, M., Sabouni, A., **Elzalabany, M.**, Jabbour, S., & Sullivan, R. (2019). Identification of the research on warfare and health, 1946-2017. *Paper presented at & published in 17th International Conference on Scientometrics & Informetrics (ISSI2019), Vol I*, *p. 271-282*. <http://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2019/>
+
+## 2018
+
+·      Sabouni, A., Abouzeid, M., **Elzalabany, M.**, Fardousi, N., Ghaddar, F., & Jabbour, S. (2018). Public health and war: A critical synthesis towards a new approach. *Poster presentation at the European Public Health Conference (EPHC), Slovenia*
+
+·      Abouzeid, M., Sabouni, A., Fardousi, N., Ghaddar, F., **Elzalabany, M.**, Khrisht, G., . . . Jabbour, S. (2018). Is there a 'field' of health and armed conflict? Towards a sustained and expanded role for the global health community. *Paper presented at the APHA 2018 Annual Meeting & Expo, San Diego.* <https://apha.confex.com/apha/2018/meetingapp.cgi/Paper/420147>

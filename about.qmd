@@ -1,0 +1,51 @@
+---
+title: ""
+---
+
+## EXPERIENCE
+
+**Data scientist/ Project coordinator** \| June 2022 -- Now \| Max Planck Institute for Demographic Research (MPIDR)- Rostock, Germany
+
+**Data Analyst** \| June 2021- May 2022 \| World Health Organization-Eastern Mediterranean Regional Office -- EMRO Cairo, Egypt
+
+**Epidemiologist** \| July 2020- June 2021 \| World Health Organization-Eastern Mediterranean Regional Office -- EMRO Cairo, Egypt
+
+**Researcher** \| March 2020- December 2020 \| COVID-19 Dispersed Volunteer Research Network
+
+**Research Affiliate** \| January 2020- June 2020 \| The Lancet-AUB Commission on Syria "Health in Conflict"
+
+**Research Associate** \| October 2018- December 2019 \| The Lancet-AUB Commission on Syria "Health in Conflict"
+
+**Intern** \| January 2018- April 2018 \| World Health Organization-Egypt country office
+
+**Graduate Research Assistant** \| June 2017- December 2017 \| The Lancet-AUB Commission on Syria "Health in Conflict"
+
+**Veterinary Epidemiologist** \| January 2010- July 2016 \| South Giza Veterinary Governmental Department
+
+\[Further details about work experience are mentioned in the resume\]
+
+## EDUCATION
+
+**MSc Applied Statistics in Health Sciences (online, part time)** \| September 2022- June 2025 \| Faculty of Science - University of Strathclyde
+
+**MPH Epidemiology and Biostatistics, EPBS** \| August 2016- June 2018 \| Faculty of Health Sciences- American University of Beirut
+
+**BVSc Veterinary Medical Sciences** \| September 2004- May 2009 \| Faculty of Veterinary Medicine- Cairo University
+
+## TECHNICAL SKILLS
+
+-   Database management: Microsoft Access
+
+-   Data wrangling, analysis, and modeling: R, Stata, Python & SPSS
+
+-   Spatial analysis: ArcGIS & R
+
+-   Data visualization: Tableau software & Power Bi
+
+-   Reference management: Endnote & Citavi
+
+-   Writing & publishing: Microsoft Word, PowerPoint & Publisher
+
+## LANGUAGES
+
+Arabic: Mother Tongue \| English: Proficient \| French: Proficient \| German: Beginner
