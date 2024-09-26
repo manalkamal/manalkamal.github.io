@@ -16,7 +16,7 @@ about:
       href: mailto:elzalabany@demogr.mpg.de
 ---
 
-Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as a research associate & data scientist in MPIDR, Germany & previously worked on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.
+Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as a research associate in MPIDR, Germany & previously worked on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.
 
 My research interests focus mainly on re/emerging infectious diseases and global health, using quantitative data methodologies.
 
