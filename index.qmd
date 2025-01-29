@@ -1,23 +1,21 @@
 ---
 title: "Manal K. Elzalabany"
-image: CV/image2.jpeg
+image: image/image2.jpeg
 about: 
   template: trestles
   image-shape: round
   image-width: 15em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/manalkamal/
     - text: Google Scholar
       href: https://scholar.google.com/citations?user=ojo0_24AAAAJ&hl=en
     - text: GitHub
       href: https://github.com/manalkamal
-    - text: Email
-      href: mailto:elzalabany@demogr.mpg.de
+   ## - text: Email
+  ##  href: mailto:
 ---
 
-Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as a research associate & data scientist in MPIDR, Germany & previously worked on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.
+Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as data analyst in Imperial College London, UK. Previously worked as a research associate & data scientist in MPIDR, Germany & on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.
 
 My research interests focus mainly on re/emerging infectious diseases and global health, using quantitative data methodologies.
 
-I hold an MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018. I am also enrolled in MSc Applied Statistics in Health Sciences program (online- part time) with Strathclyde university. I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications.
+I hold MSc Applied Statistics in Health Sciences from Strathclyde university, and an MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018. I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications.
