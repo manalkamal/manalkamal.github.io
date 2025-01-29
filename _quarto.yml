@@ -17,8 +17,8 @@ website:
         href: https://github.com/manalkamal
       - icon: google
         href: https://scholar.google.com/citations?user=ojo0_24AAAAJ&hl=en
-      - icon: envelope
-        href: mailto:elzalabany@demogr.mpg.de
+      # - icon: envelope
+      #   href: mailto:
         
   page-footer: 
     left: 
