@@ -24,11 +24,9 @@ title: ""
 
 **Veterinary Epidemiologist** \| January 2010- July 2016 \| South Giza Veterinary Governmental Department
 
-\[Further details about work experience are mentioned in the resume\]
-
 ## EDUCATION
 
-**MSc Applied Statistics in Health Sciences (online, part time)** \| September 2022- September 2024 \| Faculty of Science - University of Strathclyde
+**MSc Applied Statistics in Health Sciences** \| September 2022- September 2024 \| Faculty of Science - University of Strathclyde
 
 **MPH Epidemiology and Biostatistics, EPBS** \| August 2016- June 2018 \| Faculty of Health Sciences- American University of Beirut
 
@@ -36,7 +34,7 @@ title: ""
 
 ## TECHNICAL SKILLS
 
--   Database management: Microsoft Access
+-   Database management: Microsoft Access, SQL
 
 -   Data wrangling, analysis, and modeling: R, Stata, Python & SPSS
 

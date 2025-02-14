@@ -14,8 +14,8 @@ about:
   ##  href: mailto:
 ---
 
-Hi! I am Manal K. Elzalabany. I am a multilingual epidemiologist & data analyst, working currently as data analyst in Imperial College of Science, Technology and Medicine, UK. Previously worked as a research associate & data scientist in MPIDR, Germany & on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.
-
-My research interests focus mainly on re/emerging infectious diseases and global health, using quantitative data methodologies.
-
-I hold MSc Applied Statistics in Health Sciences from Strathclyde university, and an MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018. I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications.
+Hi! I am Manal K. Elzalabany, a multilingual epidemiologist & data analyst, working currently as data analyst in Imperial College of Science, Technology and Medicine, UK. Previously worked as a Research Associate & Data Scientist in MPIDR, Germany & on COVID-19 detection & data analysis, outbreaks' response in WHO, and as a Lancet-associated researcher.\
+\
+My research interests are epidemics, global health, armed conflicts & health data analytics, particularly: infectious diseases outbreaks analytics & causal inference using observational data.\
+\
+I hold MSc Applied Statistics in Health Sciences from Strathclyde university, 2024, MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018, and BVSc in Veterinary Medical Sciences from Cairo University, 2009 . Manal is an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications, among other analysis tools.
