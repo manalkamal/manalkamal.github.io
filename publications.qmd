@@ -4,6 +4,18 @@ website:
   site-url: https://orcid.org/0000-0002-2686-8364 
 ---
 
+## 2026
+
+·      **Elzalabany M. K.**, Barron E., .... Misra, S., Valahbji, J. DEVOTE Target Trial Emulation using the English National Diabetes Audit (NDA), 2017-2022 (under Internal review)
+
+·      **Elzalabany M. K.**, Barron E., .... Misra, S., Rogers G., Valahbji, J. Target Trials Emulation of EMPA-REG using the English National Diabetes Audit (NDA), 2017-2021 (under Internal review)
+
+·      **Elzalabany M. K.**, Barron E., Misra, S., Valahbji, J. Target Trial Emulations using the English National Diabetes Audit (NDA). Printed poster. RIQI Conference July 2026: <https://api.ltb.io/show/ACRNJ>
+
+·      Prashanthan J., **Elzalabany M. K.**, Sajjad N., Hope D., Valahbji, J. Trends and Clinical Outcomes of Pregnancies Complicated by Diabetes: A Retrospective Study from a UK Tertiary Hospital, April 2019-March 2025 (under Internal review)
+
+·      NyströmT., MichelsenJ., ImbergH. ….. **ElzalabanyM. K.**, LindM.Cardiovascular outcomes of insulin degludec versus insulin glargine in trial-eligible and ineligible populations: a DEVOTE-inspired target trial emulation using the Swedish National Diabetes Register (submitted for publication).
+
 ## 2023
 
 ·      **Elzalabany M. K.**, Kniffka M. S., Donzowa J., Schöley J., Acosta E., Riffe T. The COVerAGE-DB vaccination addon: A global database of age-harmonized COVID-19 vaccination time series. Population Association of America. 2023. <https://events.rdmobile.com/Lists/Details/1725962>

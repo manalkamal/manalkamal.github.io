@@ -4,7 +4,7 @@ title: ""
 
 ## EXPERIENCE
 
-**Data Analyst** \| February 2025 -- Now \| Imperial College of Science, Technology and Medicine - London, UK
+**Senior Data Analyst** \| February 2025 -- December 2026 \| Imperial College of Science, Technology and Medicine - London, UK
 
 **Research Associate/ Data scientist** \| June 2022 -- November 2024 \| Max Planck Institute for Demographic Research (MPIDR)- Rostock, Germany
 
@@ -34,17 +34,17 @@ title: ""
 
 ## TECHNICAL SKILLS
 
--   Database management: Microsoft Access, SQL
+- Database management: Microsoft Access, SQL
 
--   Data wrangling, analysis, and modeling: R, Stata, Python & SPSS
+- Data wrangling, analysis, and modeling: R, Stata, Python & SPSS
 
--   Spatial analysis: ArcGIS & R
+- Spatial analysis: ArcGIS & R
 
--   Data visualization: Tableau software & Power Bi
+- Data visualization: Tableau software & Power Bi
 
--   Reference management: Endnote & Citavi
+- Reference management: Endnote & Citavi
 
--   Writing & publishing: Microsoft Word, PowerPoint & Publisher
+- Writing & publishing: Microsoft Word, PowerPoint & Publisher
 
 ## LANGUAGES
 
