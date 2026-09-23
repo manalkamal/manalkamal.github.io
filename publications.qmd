@@ -16,6 +16,12 @@ website:
 
 ·      NyströmT., MichelsenJ., ImbergH. ….. **ElzalabanyM. K.**, LindM.Cardiovascular outcomes of insulin degludec versus insulin glargine in trial-eligible and ineligible populations: a DEVOTE-inspired target trial emulation using the Swedish National Diabetes Register (submitted for publication).
 
+## 2025
+
+·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of DEVOTE using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910361>
+
+·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of EMPA-REG using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910409>
+
 ## 2023
 
 ·      **Elzalabany M. K.**, Kniffka M. S., Donzowa J., Schöley J., Acosta E., Riffe T. The COVerAGE-DB vaccination addon: A global database of age-harmonized COVID-19 vaccination time series. Population Association of America. 2023. <https://events.rdmobile.com/Lists/Details/1725962>

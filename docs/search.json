@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Manal K. Elzalabany",
     "section": "",
-    "text": "Hi! I am Manal K. Elzalabany, a multilingual epidemiologist, working currently as a Senior Data Analyst at Imperial College London, UK.\nI have a broad experience working in population health data analytics and data management in academic institutions in Lebanon, Germany, United Kingdom, and United Nations Organizations.  I also worked as a Lancet-associated researcher of Syrian War & humanitarian crisis.\nI have worked on the management & analysis of different population datasets, such as COVID-19 datasets & Household surveys from 23 countries, COVID-19 Global demographic dataset COVerAGE-DB hosted in MPIDR, Germany & currently working on REDDIE an EU-Horizon project using longitudinal datasets derived from the English National Registeries, such as National Diabates Audit (NDA), Hospital Episode Statistics (HES) and Office of National Statistics. \n\nI hold MSc Applied Statistics in Health Sciences from Strathclyde university, 2024, MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018, and BVSc in Veterinary Medical Sciences from Cairo University, 2009 . I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications, among other analysis tools."
+    "text": "Hi! I am Manal K. Elzalabany, a multilingual epidemiologist, working currently as a Senior Data Analyst at Imperial College London, UK.\nI have a broad expertise working in population health data analytics and data management in academic institutions in Lebanon, Germany, United Kingdom, and United Nations Organizations.  I also worked as a Lancet-associated researcher of Syrian War & humanitarian crisis.\nI have worked on the management & analysis of different population datasets, such as COVID-19 datasets & Household surveys from 23 countries, COVID-19 Global demographic dataset COVerAGE-DB hosted in MPIDR, Germany & currently working on REDDIE an EU-Horizon project using longitudinal datasets derived from the English National Registeries, such as National Diabates Audit (NDA), Hospital Episode Statistics (HES) and Office of National Statistics. \n\nI hold MSc Applied Statistics in Health Sciences from Strathclyde university, 2024, MPH in Epidemiology & Biostatistics from the American University of Beirut, 2018, and BVSc in Veterinary Medical Sciences from Cairo University, 2009 . I am an expert user of R/ RStudio, Rmarkdown & Quarto, and Shiny Web applications, among other analysis tools."
   },
   {
     "objectID": "publications.html",
@@ -59,40 +59,47 @@
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "",
-    "section": "2023",
-    "text": "2023\n·      Elzalabany M. K., Kniffka M. S., Donzowa J., Schöley J., Acosta E., Riffe T. The COVerAGE-DB vaccination addon: A global database of age-harmonized COVID-19 vaccination time series. Population Association of America. 2023. https://events.rdmobile.com/Lists/Details/1725962\n·      Nikoloski Z, Bain R, Elzalabany M. K., Hanna P, Aynsley TR, Samhouri D, Menchini L, Kapil N, Gillespie A. Modelling COVID-19 vaccination status and adherence to public health and social measures, Eastern Mediterranean Region and Algeria. Bull World Health Organ. 2023 Feb 1;101(2):111–20. https://doi.org/10.2471%2FBLT.22.288655"
+    "section": "2025",
+    "text": "2025\n·      Safoora, G., Clare, G., Barron, E., Elzalabany, M. K., Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of DEVOTE using the National Diabetes Audit. Zenodo. https://doi.org/10.5281/zenodo.17910361\n·      Safoora, G., Clare, G., Barron, E., Elzalabany, M. K., Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of EMPA-REG using the National Diabetes Audit. Zenodo. https://doi.org/10.5281/zenodo.17910409"
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
     "title": "",
-    "section": "2022",
-    "text": "2022\n·      Elmahal, O., Abdullah, A., Elzalabany, M. K., Samhouri, D., & Brennan, R. (2022). Public health emergency operation centers-PHEOCs: status, gaps, and areas for improvements in the Eastern Mediterranean Region (BMJ Global Health 20227:e008573).  \n·      Samhouri, D., Barry, J., Abdullah, A., Elzalabany, M. K., & Brennan, R. (2022). Development of the WHO Eastern Mediterranean Region’s travel measures platform during the COVID-19 pandemic: a novel regional approach and interface in implementing the International Health Regulations (2005) and exchanging information in real time. WHO Weekly epidemiological record, 5(97), 25-32. Online: https://apps.who.int/iris/handle/10665/351505\n·      Hasan Q, Elfakki E, Fahmy K, et al. (2022). Inequities in the deployment of COVID-19 vaccine in the WHO Eastern Mediterranean Region, 2020–2021 BMJ Global Health7:e008139. Link (acknowledgement)"
+    "section": "2023",
+    "text": "2023\n·      Elzalabany M. K., Kniffka M. S., Donzowa J., Schöley J., Acosta E., Riffe T. The COVerAGE-DB vaccination addon: A global database of age-harmonized COVID-19 vaccination time series. Population Association of America. 2023. https://events.rdmobile.com/Lists/Details/1725962\n·      Nikoloski Z, Bain R, Elzalabany M. K., Hanna P, Aynsley TR, Samhouri D, Menchini L, Kapil N, Gillespie A. Modelling COVID-19 vaccination status and adherence to public health and social measures, Eastern Mediterranean Region and Algeria. Bull World Health Organ. 2023 Feb 1;101(2):111–20. https://doi.org/10.2471%2FBLT.22.288655"
   },
   {
     "objectID": "publications.html#section-3",
     "href": "publications.html#section-3",
     "title": "",
-    "section": "2021",
-    "text": "2021\n·      Abouzeid, M., Elzalabany, M.K., Nuwayhid, I. et al. Conflict-related health research in Syria, 2011–2019: a scoping review for The Lancet - AUB Commission on Syria. Confl Health 15, 92 (2021). https://doi.org/10.1186/s13031-021-00384-3"
+    "section": "2022",
+    "text": "2022\n·      Elmahal, O., Abdullah, A., Elzalabany, M. K., Samhouri, D., & Brennan, R. (2022). Public health emergency operation centers-PHEOCs: status, gaps, and areas for improvements in the Eastern Mediterranean Region (BMJ Global Health 20227:e008573).  \n·      Samhouri, D., Barry, J., Abdullah, A., Elzalabany, M. K., & Brennan, R. (2022). Development of the WHO Eastern Mediterranean Region’s travel measures platform during the COVID-19 pandemic: a novel regional approach and interface in implementing the International Health Regulations (2005) and exchanging information in real time. WHO Weekly epidemiological record, 5(97), 25-32. Online: https://apps.who.int/iris/handle/10665/351505\n·      Hasan Q, Elfakki E, Fahmy K, et al. (2022). Inequities in the deployment of COVID-19 vaccine in the WHO Eastern Mediterranean Region, 2020–2021 BMJ Global Health7:e008139. Link (acknowledgement)"
   },
   {
     "objectID": "publications.html#section-4",
     "href": "publications.html#section-4",
     "title": "",
-    "section": "2020",
-    "text": "2020\n·     Krista Wollny, Carol Liu, Ghinwa El Hayek, Sameer Gopalani, Hanh Dung Dao, Katharine Fagan-Garcia, Luca Martial, Manal Elzalabany, Helen Piontkivska, Arianna Amit, Jovia Nierenberg, Louisa Smith, Anhvinh Doanvo, Angel Desai, Vladimir Teif, Maimuna Majumder. Time-associated clinical and epidemiological parameters characterising COVID-19: a systematic review and meta-analysis. PROSPERO 2020 CRD42020177045 Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020177045\n·      Abdul-Khalek, R., Kayyal, W., Akkawi, A. R., Almalla, M., Arif, K., Karroum, L. B., . . ., Elzalabany, M. K.,..  Jawad, M. (2020). Health-related articles on Syria before and after the start of armed conflict: a scoping review for The Lancet-American University of Beirut Commission on Syria. Confl Health 14, 73 (2020). https://doi.org/10.1186/s13031-020-00316-7."
+    "section": "2021",
+    "text": "2021\n·      Abouzeid, M., Elzalabany, M.K., Nuwayhid, I. et al. Conflict-related health research in Syria, 2011–2019: a scoping review for The Lancet - AUB Commission on Syria. Confl Health 15, 92 (2021). https://doi.org/10.1186/s13031-021-00384-3"
   },
   {
     "objectID": "publications.html#section-5",
     "href": "publications.html#section-5",
     "title": "",
-    "section": "2019",
-    "text": "2019\n·      Lewison, G., Abouzeid, M., Sabouni, A., Elzalabany, M., Jabbour, S., & Sullivan, R. (2019). Identification of the research on warfare and health, 1946-2017. Paper presented at & published in 17th International Conference on Scientometrics & Informetrics (ISSI2019), Vol I, p. 271-282. http://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2019/"
+    "section": "2020",
+    "text": "2020\n·     Krista Wollny, Carol Liu, Ghinwa El Hayek, Sameer Gopalani, Hanh Dung Dao, Katharine Fagan-Garcia, Luca Martial, Manal Elzalabany, Helen Piontkivska, Arianna Amit, Jovia Nierenberg, Louisa Smith, Anhvinh Doanvo, Angel Desai, Vladimir Teif, Maimuna Majumder. Time-associated clinical and epidemiological parameters characterising COVID-19: a systematic review and meta-analysis. PROSPERO 2020 CRD42020177045 Available from: https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020177045\n·      Abdul-Khalek, R., Kayyal, W., Akkawi, A. R., Almalla, M., Arif, K., Karroum, L. B., . . ., Elzalabany, M. K.,..  Jawad, M. (2020). Health-related articles on Syria before and after the start of armed conflict: a scoping review for The Lancet-American University of Beirut Commission on Syria. Confl Health 14, 73 (2020). https://doi.org/10.1186/s13031-020-00316-7."
   },
   {
     "objectID": "publications.html#section-6",
     "href": "publications.html#section-6",
+    "title": "",
+    "section": "2019",
+    "text": "2019\n·      Lewison, G., Abouzeid, M., Sabouni, A., Elzalabany, M., Jabbour, S., & Sullivan, R. (2019). Identification of the research on warfare and health, 1946-2017. Paper presented at & published in 17th International Conference on Scientometrics & Informetrics (ISSI2019), Vol I, p. 271-282. http://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2019/"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
     "title": "",
     "section": "2018",
     "text": "2018\n·      Sabouni, A., Abouzeid, M., Elzalabany, M., Fardousi, N., Ghaddar, F., & Jabbour, S. (2018). Public health and war: A critical synthesis towards a new approach. Poster presentation at the European Public Health Conference (EPHC), Slovenia\n·      Abouzeid, M., Sabouni, A., Fardousi, N., Ghaddar, F., Elzalabany, M., Khrisht, G., . . . Jabbour, S. (2018). Is there a ‘field’ of health and armed conflict? Towards a sustained and expanded role for the global health community. Paper presented at the APHA 2018 Annual Meeting & Expo, San Diego. https://apha.confex.com/apha/2018/meetingapp.cgi/Paper/420147"

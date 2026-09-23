@@ -16,7 +16,7 @@ about:
 
 Hi! I am Manal K. Elzalabany, a multilingual epidemiologist, working currently as a Senior Data Analyst at Imperial College London, UK.
 
-I have a broad experience working in population health data analytics and data management in academic institutions in Lebanon, Germany, United Kingdom, and United Nations Organizations.  I also worked as a *Lancet*-associated researcher of Syrian War & humanitarian crisis.
+I have a broad expertise working in population health data analytics and data management in academic institutions in Lebanon, Germany, United Kingdom, and United Nations Organizations.  I also worked as a *Lancet*-associated researcher of Syrian War & humanitarian crisis.
 
 I have worked on the management & analysis of different population datasets, such as COVID-19 datasets & Household surveys from 23 countries, COVID-19 Global demographic dataset [COVerAGE-DB](https://www.coverage-db.org/) hosted in MPIDR, Germany & currently working on [REDDIE](https://www.reddie-diabetes.eu/) an EU-Horizon project using longitudinal datasets derived from the English National Registeries, such as National Diabates Audit (NDA), Hospital Episode Statistics (HES) and Office of National Statistics. \
 \
