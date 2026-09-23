@@ -18,9 +18,9 @@ website:
 
 ## 2025
 
-·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of DEVOTE using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910361>
+·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. Statistical analysis plan: emulation of DEVOTE using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910361>
 
-·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. (2025). Statistical analysis plan: emulation of EMPA-REG using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910409>
+·      Safoora, G., Clare, G., Barron, E., **Elzalabany, M. K.**, Shivani, M., Jonathan, V., Kamlesh, K., Pratik, C. Statistical analysis plan: emulation of EMPA-REG using the National Diabetes Audit. Zenodo. <https://doi.org/10.5281/zenodo.17910409>
 
 ## 2023
 
